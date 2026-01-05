@@ -1,6 +1,6 @@
 # HỆ THỐNG GIÁM SÁT MÔI TRƯỜNG STM32F411CEU6 + FreeRTOS
 
-**Sinh viên thực hiện:** N22DCDT066 - Toàn  
+**Nhóm thực hiện:** 8 
 **Dự án:** Hệ thống đọc dữ liệu cảm biến môi trường sử dụng FreeRTOS trên STM32F411CEU6
 
 ---
@@ -1424,3 +1424,4 @@ mutexHandle = osMutexNew(&mutex_attributes);
 ### Câu hỏi về giao tiếp ngoại vi
 
 **Q3: Giải thích giao tiếp
+
