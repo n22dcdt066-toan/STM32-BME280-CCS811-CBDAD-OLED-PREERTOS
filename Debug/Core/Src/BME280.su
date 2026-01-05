@@ -1,0 +1,13 @@
+../Core/Src/BME280.c:27:19:BME280_Init	16	static
+../Core/Src/BME280.c:76:6:BME280_IsConnected	16	static
+../Core/Src/BME280.c:88:19:BME280_SoftReset	16	static
+../Core/Src/BME280.c:106:19:BME280_ReadAll	56	static
+../Core/Src/BME280.c:167:19:BME280_ReadTemperature	40	static
+../Core/Src/BME280.c:182:19:BME280_ReadHumidity	40	static
+../Core/Src/BME280.c:197:19:BME280_ReadPressure	40	static
+../Core/Src/BME280.c:213:26:BME280_ReadCalibrationData	48	static
+../Core/Src/BME280.c:264:16:BME280_CompensateTemperature	32	static
+../Core/Src/BME280.c:284:17:BME280_CompensatePressure	328	static
+../Core/Src/BME280.c:313:17:BME280_CompensateHumidity	24	static
+../Core/Src/BME280.c:337:19:BME280_SPI_WriteRegister	24	static
+../Core/Src/BME280.c:369:19:BME280_SPI_ReadRegister	24	static

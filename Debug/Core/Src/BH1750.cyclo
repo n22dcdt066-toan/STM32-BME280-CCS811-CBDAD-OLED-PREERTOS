@@ -1,0 +1,12 @@
+../Core/Src/BH1750.c:33:17:BH1750_Init	5
+../Core/Src/BH1750.c:72:17:BH1750_Reset	1
+../Core/Src/BH1750.c:89:17:BH1750_PowerOn	1
+../Core/Src/BH1750.c:106:17:BH1750_PowerDown	1
+../Core/Src/BH1750.c:125:17:BH1750_SetMode	2
+../Core/Src/BH1750.c:149:17:BH1750_SetMTreg	4
+../Core/Src/BH1750.c:182:17:BH1750_ReadLight	8
+../Core/Src/BH1750.c:237:17:BH1750_ReadLightBlocking	5
+../Core/Src/BH1750.c:275:17:BH1750_TriggerMeasurement	4
+../Core/Src/BH1750.c:291:6:BH1750_IsConnected	1
+../Core/Src/BH1750.c:309:17:BH1750_ReadAll	2
+../Core/Src/BH1750.c:331:17:BH1750_GetStatus	2

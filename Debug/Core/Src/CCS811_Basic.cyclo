@@ -1,0 +1,13 @@
+../Core/Src/CCS811_Basic.c:25:19:CCS811_Init	13
+../Core/Src/CCS811_Basic.c:86:6:CCS811_IsConnected	4
+../Core/Src/CCS811_Basic.c:101:19:CCS811_StartApp	1
+../Core/Src/CCS811_Basic.c:110:19:CCS811_SoftReset	2
+../Core/Src/CCS811_Basic.c:132:19:CCS811_SetDriveMode	2
+../Core/Src/CCS811_Basic.c:145:19:CCS811_SetEnvironmentalData	2
+../Core/Src/CCS811_Basic.c:171:19:CCS811_CheckDataReady	2
+../Core/Src/CCS811_Basic.c:187:19:CCS811_ReadData	5
+../Core/Src/CCS811_Basic.c:228:9:CCS811_CheckForError	3
+../Core/Src/CCS811_Basic.c:248:26:CCS811_WriteCommand	1
+../Core/Src/CCS811_Basic.c:260:26:CCS811_WriteRegister	1
+../Core/Src/CCS811_Basic.c:272:26:CCS811_ReadRegister	1
+../Core/Src/CCS811_Basic.c:285:26:CCS811_ReadRegisters	1
